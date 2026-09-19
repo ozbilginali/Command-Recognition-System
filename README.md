@@ -48,5 +48,10 @@ pip install opencv-python mediapipe numpy pyautogui pillow tensorflow
 * hareket_tanima_modeli.h5: Önceden eğitilmiş, el hareketlerini ve anlamlarını hafızasında tutan derin öğrenme model dosyasıdır (Yapay zeka beyni).
 * icons/: Uygulama arayüzünde kullanılan görsel tasarımların, butonların ve el simgelerinin yer aldığı yardımcı kaynak klasörüdür.
   
-## İnstallation 
+## İnstallation
+
 * pip install -r requirements.txt
+
+## VeriSeti
+
+* ASL Alphabet Dataset on Kaggle 
