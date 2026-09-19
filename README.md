@@ -47,3 +47,6 @@ pip install opencv-python mediapipe numpy pyautogui pillow tensorflow
 * app.py: Uygulamanın grafiksel arayüzünü (Tkinter) yöneten, kamera görüntüsünü işleyen ve ana mantığı çalıştıran kök dosyadır.
 * hareket_tanima_modeli.h5: Önceden eğitilmiş, el hareketlerini ve anlamlarını hafızasında tutan derin öğrenme model dosyasıdır (Yapay zeka beyni).
 * icons/: Uygulama arayüzünde kullanılan görsel tasarımların, butonların ve el simgelerinin yer aldığı yardımcı kaynak klasörüdür.
+  
+## İnstallation 
+* pip install -r requirements.txt
